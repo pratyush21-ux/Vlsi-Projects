@@ -1,0 +1,24 @@
+@0000
+00000000  // Address 0: unused
+00000001  // Address 1: h = 1
+00000002  // Address 2: h[1] = 2
+00000003  // Address 3: h = 3
+00000004  // Address 4: h = 4
+00000000  // Address 5: unused
+00000000  // Address 6: unused
+00000000  // Address 7: unused
+00000000  // Address 8: unused
+00000000  // Address 9: unused
+00000001  // Address 10 (0x0A): x = 1
+00000002  // Address 11 (0x0B): x[1] = 2
+00000003  // Address 12 (0x0C): x = 3
+00000004  // Address 13 (0x0D): x = 4
+00000005  // Address 14 (0x0E): x = 5
+00000006  // Address 15 (0x0F): x = 6
+@0064
+00000000  // Address 100: output buffer
+00000000  // Address 101
+00000000  // Address 102
+00000000  // Address 103
+00000000  // Address 104
+00000000  // Address 105
